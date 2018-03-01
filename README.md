@@ -1,5 +1,4 @@
 # Kaggle_Competitions
 
-1. A place I put Kaggle exercises.
+1. Classified by topics.
 2. Using Python3 & Jupyter Notebook.
-3. Classified by topics.
